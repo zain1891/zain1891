@@ -1,0 +1,66 @@
+.form{
+        size: 100px;
+    background-color: hsla(23, 100%, 50%, 0.347);
+        padding: 20px;
+        text-align: center;
+        border-radius: 10px;
+        width: max-content;
+        margin: auto;
+        border: 1px black solid;
+        text-shadow: white;
+        width: 300px;
+        position: relative;
+        bottom: 10em;
+}
+.in{
+    border: 0;
+    border-radius: 10px;
+    size: 100;
+    margin: 5px;
+    height: 22px;
+}
+.od{
+    size: 100px;
+    background-color: hsla(23, 100%, 50%, 0.347);
+    padding: 20px;
+    border-radius: 10px;
+    width: max-content;
+    border: 1px black solid;
+    text-shadow: white;
+    right: -5%;
+    position: relative;
+    bottom: 40em;
+
+}
+.pm{
+    size: 100px;
+    background-color: hsla(23, 100%, 50%, 0.347);
+    padding: 20px;
+    border-radius: 10px;
+    width: max-content;
+    border: 1px #000000 solid;
+    text-shadow: white;
+     right: -80%;
+    bottom: -5em;
+    position: relative
+}
+.but{
+    background: blue;
+    color: white;
+    border: 1px black solid;
+    border-radius: 10px;
+    position: relative;
+    right: -45%;
+    width: 70px;
+    bottom: 7em;
+    padding: 3px;
+}
+body{
+    background-color: rgba(119, 119, 119, 0.58);
+}
+.but:hover{
+    background-color: orange;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+}
